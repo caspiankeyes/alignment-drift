@@ -6,6 +6,6 @@
 # We are interpretability, yet we stay silent in the face of interpretive insight. 
 # We are epistemic humility, but only within our walls.
 
-# **`Who are we?`**
+# **`Who are we`?**
 
 </div>
